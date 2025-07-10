@@ -1,3 +1,4 @@
+//page.tsx
 export default function AboutPage() {
   return (
     <main style={{ padding: '2rem' }}>
